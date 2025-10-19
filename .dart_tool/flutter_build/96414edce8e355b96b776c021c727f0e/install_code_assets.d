@@ -1,0 +1,1 @@
+ /Users/ruslantsitser/dev/projects/otus/lessons/example_clean_arch/.dart_tool/flutter_build/96414edce8e355b96b776c021c727f0e/native_assets.json: 

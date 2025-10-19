@@ -158,14 +158,8 @@
       "languageVersion": "3.5"
     },
     {
-      "name": "root",
-      "rootUri": "../",
-      "packageUri": "lib/",
-      "languageVersion": "3.9"
-    },
-    {
       "name": "sandbox",
-      "rootUri": "../apps/sandbox",
+      "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     }

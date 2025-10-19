@@ -1,0 +1,13 @@
+name: root
+description: "Root"
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+workspace:
+  - apps/sandbox

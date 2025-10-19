@@ -1,17 +1,8 @@
 {
   "roots": [
-    "root",
     "sandbox"
   ],
   "packages": [
-    {
-      "name": "root",
-      "version": "0.1.0",
-      "dependencies": [],
-      "devDependencies": [
-        "flutter_lints"
-      ]
-    },
     {
       "name": "sandbox",
       "version": "0.1.0",
