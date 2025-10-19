@@ -5,8 +5,8 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "00.stateful",
-      "cwd": "projects/00.stateful",
+      "name": "sandbox",
+      "cwd": "apps/sandbox",
       "request": "launch",
       "type": "dart"
     }
