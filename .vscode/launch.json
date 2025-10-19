@@ -8,12 +8,6 @@
       "name": "sandbox",
       "request": "launch",
       "type": "dart"
-    },
-    {
-      "name": "monorepo/apps/sandbox",
-      "cwd": "monorepo/apps/sandbox",
-      "request": "launch",
-      "type": "dart"
     }
   ]
 }
